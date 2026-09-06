@@ -121,7 +121,7 @@ This helps identify:
 
 ## 🖥️ Dashboard Preview
 
-![MitRah Cart Performance Report](dashboard.png)
+![MitRah Cart Performance Report](log.png)
 
 > Add the dashboard screenshot to the root directory of this repository and rename it to `dashboard.png`.
 
@@ -160,6 +160,8 @@ Based on the dashboard:
 ```text
 MitRah-Cart-Performance-Report/
 │
-├── 📊 MitRah Cart Performance Report.pbix
-├── 🖼️ dashboard.png
+├── 📊 MitRah.pbix
+├── 🖼️ log.png
 ├── 📄 README.md
+├── MitRah.csv
+
