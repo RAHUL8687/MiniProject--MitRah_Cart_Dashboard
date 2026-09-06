@@ -121,7 +121,7 @@ This helps identify:
 
 ## 🖥️ Dashboard Preview
 
-![MitRah Cart Performance Report](log.png)
+![MitRah Cart Performance Report](dashboard.png)
 
 > Add the dashboard screenshot to the root directory of this repository and rename it to `dashboard.png`.
 
